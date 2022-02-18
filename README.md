@@ -2,9 +2,10 @@
 
 Hello human 🧑🏻‍💻, 
 
-This repo is for showcasing my personal projects. Currently, you will see them grouped into 3️⃣ categories: 
+This repo is for showcasing my personal projects. Currently, you will see them grouped into 2️⃣ categories: 
 1. Data Science Projects in Python
-2. Data Science Projects in R
+  * Using Python
+  * Using R
 3. Visualisations (Tableau & Streamlit)
 
 If you are here, you're probably a:
