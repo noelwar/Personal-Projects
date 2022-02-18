@@ -3,9 +3,9 @@
 Hello human 🧑🏻‍💻, 
 
 This repo is for showcasing my personal projects. Currently, you will see them grouped into 2️⃣ categories: 
-- [Data Science Projects](https://github.com/noelwar/PersonalProjects/blob/main/Data%20Science%20Projects)
-  - Using Python
-  - Using R
+- [Data Science Projects](https://github.com/noelwar/PersonalProjects/tree/main/Data%20Science%20Projects)
+  - [Using Python](https://github.com/noelwar/PersonalProjects/tree/main/Data%20Science%20Projects/Using%20Python)
+  - [Using R](https://github.com/noelwar/PersonalProjects/tree/main/Data%20Science%20Projects/Using%20R)
 - [Visualisations (Tableau & Streamlit)](https://github.com/noelwar/PersonalProjects/blob/main/Visualisations%20(Tableau%20%26%20Streamlit))
 
 If you are here, you're probably a:
