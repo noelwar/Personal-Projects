@@ -3,10 +3,10 @@
 Hello human 🧑🏻‍💻, 
 
 This repo is for showcasing my personal projects. Currently, you will see them grouped into 2️⃣ categories: 
-1. Data Science Projects in Python
-  * Using Python
-  * Using R
-3. Visualisations (Tableau & Streamlit)
+- [Data Science Projects](https://github.com/noelwar/PersonalProjects/blob/main/Data%20Science%20Projects)
+  - Using Python
+  - Using R
+- [Visualisations (Tableau & Streamlit)](https://github.com/noelwar/PersonalProjects/blob/main/Visualisations%20(Tableau%20%26%20Streamlit))
 
 If you are here, you're probably a:
 - friend just curious to see my work. If so, feel free to explore! 🔍 Do get in touch with me if you have any feedback or suggestions or just want to chat! 💬
@@ -25,7 +25,7 @@ Hello! My name is Christian N Warjri. I am currently in university working towar
 <br>  
   
 |Method|Details|
-|---|---|
+|:---:|:---:|
 |Email ✉️|christian.w@ahduni.edu.in|
 |LinkedIn 💼|[Christian N Warjri](https://www.linkedin.com/in/noelwarjri/)|
 |Website 🌐|[noelwarjri](https://www.noelwarjri.com/)|
