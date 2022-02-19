@@ -16,7 +16,7 @@ If you are here, you're probably a:
 <summary>About me:</summary>
 <br>
   
-Hello! My name is Christian N Warjri. I am currently in university working towards my Computer Science degree. I realised early on that I really liked being on my computer 😅. I was either gaming, browsing the internet or just general shenanigans using my PC. Today, I am fascinated by data science, either using machine learning, deep learning, general analytics and data science or fun, interactive visualisations to tell stories with data and glean insights that hide under our naked eye. 
+Hello! My name is Christian N Warjri. I am currently in university working towards my Computer Science degree. I realised early on that I really liked being on my computer 😅. I was either gaming or browsing the internet or just general shenanigans using my PC. Today, I am fascinated by data science - machine learning, deep learning, general analytics, and fun interactive visualisations to tell stories with data and glean insights that hide under our naked eye. 
 
 </details>
 
