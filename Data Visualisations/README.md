@@ -37,3 +37,11 @@ Below is a few highlights of my vizzes!
 
 |<img src="https://drive.google.com/uc?export=view&id=1GJeH-WoW3HrRDsqx54amJiPJ8mNvurhF" width=700 height=350>|<img src="https://media.giphy.com/media/MxEseydw0x3ktXJVpE/giphy.gif" width=700 height=350>|
 |:---:|:---:|
+
+## Contact
+|Method|Details|
+|:---:|:---:|
+|Email ✉️|christian.w@ahduni.edu.in|
+|LinkedIn 💼|[Christian N Warjri](https://www.linkedin.com/in/noelwarjri/)|
+|Website 🌐|[noelwarjri](https://www.noelwarjri.com/)|
+|Tableau Profile📊|[vizzes](https://public.tableau.com/app/profile/noelwar)|
