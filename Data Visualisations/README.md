@@ -14,7 +14,9 @@ Below is a few highlights of my vizzes!
 
 ### [Percentage of Partially Vaccinated Localities](https://public.tableau.com/app/profile/noelwar/viz/Vacc1/D1)
 
-This viz was made when I was a data analyst for the Government of Meghalaya. Here, the percentage values of each area (dot) belonging to their respective localities (colour of dot) are shown. The essence of this viz was to convey to the public the poor vaccination status of most of the areas of the district. 
+This viz was made when I was a data analyst for the Government of Meghalaya. Here, the vaccination rates of each area (dot) belonging to their respective localities (colour of dot) are shown. The essence of this viz was to convey to the public the poor vaccination status of most of the areas of the district. 
+
+Note: The dots above 100% vaccination represented how some people from outside the district went to that district to get vaccinated.
 
 |<img src="https://drive.google.com/uc?export=view&id=1wiiGXxrp8uMvRkmJvxlux7KHLdD8Rccg" width=700 height=350>|<img src="https://media.giphy.com/media/o8aoNIgsqPeMIlUSp2/giphy.gif" width=700 height=350>|
 |:---:|:---:|
