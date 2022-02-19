@@ -14,22 +14,26 @@ Below is a few highlights of my vizzes!
 
 ### [Percentage of Partially Vaccinated Localities](https://public.tableau.com/app/profile/noelwar/viz/Vacc1/D1)
 
-This viz was made when I was a data analyst for the Government of Meghalaya. Here, the vaccination rates of each area (dot) belonging to their respective localities (colour of dot) are shown. The dots above 100% vaccination represented how some people from outside the district went to that district to get vaccinated.
+- About: Here, the vaccination rates of each area (dot) belonging to their respective localities (colour of dot) are shown. The dots above 100% vaccination represented how some people from outside the district went to that district to get vaccinated.
 
-Objective: Convey to the public the poor vaccination status of most of the areas of the district.
+- Motivation: Data Analyst (COVID Taskforce) @ Government of Meghalaya
 
-Note: The dashboard is interactive and updated in realtime as the district gets more data (this was until 2021).
+- Objective: Convey to the public the poor vaccination status of most of the areas of the district.
+
+- Note: The dashboard is interactive and updated in realtime as the district gets more data (this was until 2021).
 
 |<img src="https://drive.google.com/uc?export=view&id=1wiiGXxrp8uMvRkmJvxlux7KHLdD8Rccg" width=700 height=350>|<img src="https://media.giphy.com/media/o8aoNIgsqPeMIlUSp2/giphy.gif" width=700 height=350>|
 |:---:|:---:|
 
 ### [Fully Vaccinated vs Partially Vaccinated vs Not-Vaccinated Deaths](https://public.tableau.com/app/profile/noelwar/viz/Deaths5/Dashboard#4)
 
-This viz was made when I was a data analyst for the Government of Meghalaya. Here, each death (bubble) is displayed in a bubble chart grouped by their vaccination status (colour). When you hover over the bubbles, you will see the age, sex, comorbidity status and date the person died.
+- About: Here, each death (bubble) is displayed in a bubble chart grouped by their vaccination status (colour). When you hover over the bubbles, you will see the age, sex, comorbidity status and date the person died.
 
-Objective: Convey to the public how most of the deaths were because people were not vaccinated.
+- Motivation: Data Analyst (COVID Taskforce) @ Government of Meghalaya
 
-Note: The dashboard is interactive and updated in realtime as the district gets more data (this was until 2021).
+- Objective: Convey to the public how most of the deaths were because people were not vaccinated.
 
-|<img src="https://drive.google.com/uc?export=view&id=1GJeH-WoW3HrRDsqx54amJiPJ8mNvurhF" width=700 height=350>|<img src="https://media.giphy.com/media/o8aoNIgsqPeMIlUSp2/giphy.gif" width=700 height=350>|
+- Note: The dashboard is interactive and updated in realtime as the district gets more data (this was until 2021).
+
+|<img src="https://drive.google.com/uc?export=view&id=1GJeH-WoW3HrRDsqx54amJiPJ8mNvurhF" width=700 height=350>|<img src="https://media.giphy.com/media/MxEseydw0x3ktXJVpE/giphy.gif" width=700 height=350>|
 |:---:|:---:|
