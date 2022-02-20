@@ -12,7 +12,7 @@ In this section I will go through the vizzes that I have made, which have either
 
 Below is a few highlights of my vizzes!
 
-### [Frequency of American Birthdays (1994 - 2014)](https://public.tableau.com/app/profile/noelwar/viz/AmericanBirthdaysPast20Years/D1?publish=yes)
+### 🎂 [Frequency of American Birthdays (1994 - 2014)](https://public.tableau.com/app/profile/noelwar/viz/AmericanBirthdaysPast20Years/D1?publish=yes)
 
 - About: Here, the intensity of the purplish hues on each tile in the heatmap represent the average number of births per month and day from 1994 - 2014. Similarly, the intensity of the bluish hues represent the average number of hypothetical moments of conception for the same time period.
 
@@ -23,7 +23,7 @@ Below is a few highlights of my vizzes!
 |<img src="https://drive.google.com/uc?export=view&id=1wjJ0Mtw8Yyi7jTHIZOLU5dkHOVUxzhMq" width=700 height=350>|<img src="https://media.giphy.com/media/AbTsxrDEG7K5cd2zMA/giphy.gif" width=700 height=350>|
 |:---:|:---:|
 
-### [Percentage of Partially Vaccinated Localities](https://public.tableau.com/app/profile/noelwar/viz/Vacc1/D1)
+### 💉 [Percentage of Partially Vaccinated Localities](https://public.tableau.com/app/profile/noelwar/viz/Vacc1/D1)
 
 - About: Here, the vaccination rates of each area (dot) belonging to their respective localities (colour of dot) are shown. The dots above 100% vaccination represented how some people from outside the district went to that district to get vaccinated.
 
@@ -36,7 +36,7 @@ Below is a few highlights of my vizzes!
 |<img src="https://drive.google.com/uc?export=view&id=1wiiGXxrp8uMvRkmJvxlux7KHLdD8Rccg" width=700 height=350>|<img src="https://media.giphy.com/media/o8aoNIgsqPeMIlUSp2/giphy.gif" width=700 height=350>|
 |:---:|:---:|
 
-### [Fully Vaccinated vs Partially Vaccinated vs Not-Vaccinated Deaths](https://public.tableau.com/app/profile/noelwar/viz/Deaths5/Dashboard#4)
+### 🤧 [Fully Vaccinated vs Partially Vaccinated vs Not-Vaccinated Deaths](https://public.tableau.com/app/profile/noelwar/viz/Deaths5/Dashboard#4)
 
 - About: Here, each death (bubble) is displayed in a bubble chart grouped by their vaccination status (colour). When you hover over the bubbles, you will see the age, sex, comorbidity status and date the person died.
 
