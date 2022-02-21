@@ -12,6 +12,17 @@ In this section I will go through the vizzes that I have made, which have either
 
 Below is a few highlights of my vizzes!
 
+### 🌲🗽 [Trees of New York City](https://public.tableau.com/app/profile/noelwar/viz/TheTreesofNYC/Dashboard)
+
+- About: Here, this viz shows the top 27 trees species in NYC. This viz is broken up by tree species and the boroughs of the city. You can filter in and out as you choose. 
+
+- Motivation: Personal Tableau Projects
+
+- Objective: Make aesthetic and beauitful to look at vizzes using map data. I learned more about Tableau relationships, LODs, containers, actions and parameters.
+
+|<img src="https://drive.google.com/uc?export=view&id=1RR-00mW3cRC01Bmc0sMm0rQl7J5R-lcw" width=700 height=350>|<img src="https://media.giphy.com/media/a64SplBBqzOG0gvGCm/giphy.gif" width=700 height=350>|
+|:---:|:---:|
+
 ### 🎂 [Frequency of American Birthdays (1994 - 2014)](https://public.tableau.com/app/profile/noelwar/viz/AmericanBirthdaysPast20Years/D1?publish=yes)
 
 - About: Here, the intensity of the purplish hues on each tile in the heatmap represent the average number of births per month and day from 1994 - 2014. Similarly, the intensity of the bluish hues represent the average number of hypothetical moments of conception for the same time period.
