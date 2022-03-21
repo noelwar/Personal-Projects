@@ -18,7 +18,7 @@ Below is a few highlights of my vizzes!
 
 - Motivation: Personal Tableau Projects
 
-- Objective: Make aesthetic and beauitful to look at vizzes using map data. I learned more about Tableau relationships, LODs, containers, actions and parameters.
+- Objective: Make aesthetic and beauitful vizzes using map data. Plotting and analysing geospatial data and mapping each datapoint was also learnt. I learned more about Tableau relationships, LODs, containers, actions and parameters.
 
 |<img src="https://drive.google.com/uc?export=view&id=1RR-00mW3cRC01Bmc0sMm0rQl7J5R-lcw" width=700 height=350>|<img src="https://media.giphy.com/media/a64SplBBqzOG0gvGCm/giphy.gif" width=700 height=350>|
 |:---:|:---:|
