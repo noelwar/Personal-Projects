@@ -18,11 +18,15 @@ My business acumen was highlighted through my various charts and presentations m
 ### 📈 Graphs and Slides:
 
 #### Objective:
+<img src="https://drive.google.com/uc?export=view&id=1Q2XYSYEGngXUDYkYOFpzEc5a_OP3OwTC" width=700 height=450>
 
 #### General Observations and Insights:
 <img src="https://drive.google.com/uc?export=view&id=1tCdKSl7mC668fL1-6KVFIJ6cUf41OAsE" width=700 height=450>
 
 #### Sample Uni-/Bi-/Multi-variate Analyses with Short Inferences:
 <img src="https://drive.google.com/uc?export=view&id=1W4BwbjXR9znG0wnGsXGfnaYtHVnv_O3p" width=700 height=450>
+<img src="https://drive.google.com/uc?export=view&id=15ke-c-WDdyrQKIDeQggsVdKTHqzx9OFq" width=700 height=450>
+<img src="https://drive.google.com/uc?export=view&id=1AQpxhVIhgqs-UobqgLuR842n5hrkwYGN" width=700 height=450>
 
 #### Sample User Profile Based On Product Choice:
+<img src="https://drive.google.com/uc?export=view&id=1k82WlH0UgOvHBROslT1T16FGoSlRU9sZ" width=700 height=450>
