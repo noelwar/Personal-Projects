@@ -11,6 +11,7 @@ This repo is for showcasing my personal projects. Currently, you will see them g
 If you are here, you're probably a:
 - friend just curious to see my work. If so, feel free to explore! 🔍 Do get in touch with me if you have any feedback or suggestions or just want to chat! 💬
 - potential recruiter examining my projects. If so, I have documented my work to highlight my personal projects for your viewing convenience. 👩🏽‍💼 Follow the hyperlinks for quick navigation! 🧭
+- By-the-way, please refresh the page 📃 if the images don't load!
 
 <details>
 <summary>About me:</summary>
