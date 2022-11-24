@@ -1,29 +1,32 @@
-### Question: Top 5 States With 5 Star Businesses
+### Question: Churro Activity Date
 
-Yelp <br>
-Hard <br>
-Interview Questions <br>
-ID 10046 <br>
+City of Los Angeles <br>
+Easy <br>
+General Practice <br>
+ID 9688 <br>
 
 
-Find the top 5 states with the most 5 star businesses.
-Output the state name along with the number of 5-star businesses and order records by the number of 5-star businesses in descending order.
-In case there are ties in the number of businesses, return all the unique states.
-If two states have the same result, sort them in alphabetical order.
+Find the activity date and the pe_description of facilities with the name 'STREET CHURROS' and with a score of less than 95 points.
 
-yelp_business
+los_angeles_restaurant_health_inspections
 |variable|type|
 |-|-|
-|business_id|varchar|
-|name|varchar|
-|neighborhood|varchar|
-|address||varchar|
-|city|varchar|
-|state|varchar|
-|postal_code|varchar|
-|latitude|float|
-|longitude|float|
-|stars|float|
-|review_count|int|
-|is_open|int|
-|categories|varchar|
+|serial_number|varchar|
+|activity_date|datetime|
+|facility_name|varchar|
+|score:intgrade|varchar|
+|service_code|int|
+|service_description|varchar|
+|employee_id|varchar|
+|facility_address|:varchar|
+|facility_city|varchar|
+|facility_id|varchar|
+|facility_state|varchar|
+|facility_zip|varchar|
+|owner_id|varchar|
+|owner_name|varchar|
+|pe_description|varchar|
+|program_element_pe|int|
+|program_name|varchar|
+|program_status|varchar|
+|record_id:varchar|
